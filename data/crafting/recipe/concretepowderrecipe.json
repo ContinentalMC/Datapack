@@ -1,10 +1,10 @@
 {
     "type": "minecraft:smelting",
     "ingredient": {
-        "item": "minecraft:gravel"
+        "item": "minecraft:white_concrete_powder"
     },
     "result": {
-        "id": "minecraft:white_concrete_powder"
+        "id": "minecraft:white_concrete"
     },
     "experience": 0,
     "cookingtime": 10
