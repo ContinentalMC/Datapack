@@ -67,6 +67,7 @@
       "magma_block",
       "coal_block",
       "torch",
+      "wall_torch",
       "crafting_table",
       "stonecutter",
       "cartography_table",
