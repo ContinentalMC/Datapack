@@ -1,11 +1,12 @@
 {
     "type": "minecraft:smelting",
-    "ingredient": {
-        "item": "minecraft:cyan_concrete_powder"
-    },
+    "ingredient": [
+      "minecraft:cyan_concrete_powder"
+    ],
     "result": {
-        "id": "minecraft:cyan_concrete"
+      "id": "minecraft:cyan_concrete"
     },
     "experience": 0,
     "cookingtime": 10
-}
+  }
+  

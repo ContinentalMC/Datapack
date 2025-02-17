@@ -1,12 +1,11 @@
 {
     "type": "minecraft:smelting",
     "ingredient": [
-      "minecraft:gray_concrete_powder"
+      "minecraft:gravel"
     ],
     "result": {
-      "id": "minecraft:gray_concrete"
+      "id": "minecraft:white_concrete_powder"
     },
     "experience": 0,
     "cookingtime": 10
   }
-  

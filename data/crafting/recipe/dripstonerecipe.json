@@ -1,16 +1,16 @@
 {
     "type": "minecraft:crafting_shaped",
+    "category": "building",
     "pattern": [
-        "# #",
-        " # "
+      "# #",
+      " # "
     ],
     "key": {
-        "#": {
-            "item": "minecraft:stone"
-        }
+      "#": "minecraft:stone"
     },
     "result": {
-        "id": "minecraft:pointed_dripstone",
-        "count": 1
+      "id": "minecraft:pointed_dripstone",
+      "count": 1
     }
-}
+  }
+  
